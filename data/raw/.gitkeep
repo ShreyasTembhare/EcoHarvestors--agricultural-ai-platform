@@ -1,0 +1,6 @@
+# This file ensures the raw data directory is tracked by Git
+# Users should place their CSV datasets here:
+# - crop_data.csv
+# - yield_data.csv  
+# - rainfall_data.csv
+# - fertilizer_data.csv 

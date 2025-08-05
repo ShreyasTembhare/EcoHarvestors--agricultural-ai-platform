@@ -1,0 +1,3 @@
+# This file ensures the processed data directory is tracked by Git
+# Cleaned and feature-engineered datasets will be saved here
+# after running the training script 
